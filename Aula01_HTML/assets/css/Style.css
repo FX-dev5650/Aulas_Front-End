@@ -1,0 +1,27 @@
+/* Classe personalizada - padrão*/
+.titulo{
+    /* Funciona atraves de Chave: Valor */
+    color: aqua;
+    background-color: beige;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+/* Classe de acordo com tags - padrão */
+h1{
+    font-size: larger;
+    font-weight: bold;
+}
+h2{
+    font-size: small;
+    color: blueviolet;
+}
+video,source{
+    margin: 50%;
+}
+/* Id - Utilizado para identificar elementos especificos ou unicos */
+#paragrafo{
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
