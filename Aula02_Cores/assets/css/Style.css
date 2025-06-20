@@ -11,7 +11,7 @@ body{
     /* color: rgb(255, 255, 255);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
 
-    /* Coloração por RGBA (RED,GREEN,BLUE,APHA) */
+    /* Coloração por RGBA (RED,GREEN,BLUE,APHA (sendo de 0 a 1) */
     color: rgba(56, 45, 48, 0.651);
     
     

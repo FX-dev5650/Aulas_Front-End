@@ -1,0 +1,14 @@
+.bloco-azul{
+    background-color: aqua;
+    /* Precisa definir o tamanho da div, pois a div sem configuração
+    possui tamanho 0px */
+    width: 297px;
+    height: 97px;
+    /* se quiser colocar a borda e não ocupar mais espaço no elemento
+    basta subtrai o valor da borda na altura e largura */
+    border: 5px solid black;
+    /* Arredondamento */
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
